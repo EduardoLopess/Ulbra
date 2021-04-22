@@ -1,0 +1,181 @@
+*{
+    margin: 0 auto;
+}
+
+body{
+    background-color: #e2e2e2;
+}
+
+.fora{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.linha{
+    clear: both;
+}
+
+#cabecalho{
+    background-color: #162E58;
+    min-height: 75px;
+    padding: 15px 
+}
+
+#titulocab{
+    font-size: 18px;
+    min-width: 30%;
+    float: left;
+    text-align: left;
+    color: white;   
+}
+
+.sub{
+    float:left;
+    padding: 70px 40px 50px 25px;
+    font-size: 15px;
+    color: #e2e2e2;
+}
+
+.tituloSessao{
+    font-size: 20px;
+    margin-left: 480px;
+    margin-top: 3px;
+    margin-bottom: 3px
+}
+
+#tbClassif{
+    width: 50%;
+    background-color: #ffffff
+}
+
+.nomeClb{
+    width: 50%
+}
+
+.vde{
+    height: 18px;
+    width: 18px;
+    float: right;
+    margin-right: 5px;
+}
+ /* Times */
+.imgClb{
+    width: 25px;
+}
+
+.totten{
+    width: 11px
+}
+
+#tottenTab{
+    width: 15px; 
+}
+
+.imgJogos{
+    width: 15px
+}
+/*-----*/
+
+.ultimas{
+    width: 250%;
+    text-align: right
+}
+
+.nomeClb{
+    margin-left: 250px ;
+}
+
+.clube{
+    text-align: left;
+    font-size: 12px
+}
+
+.tdimgClb{
+    width: 30px;
+    text-align: left
+   
+}
+
+table, td, th{
+    border-bottom: solid 1px #e2e2e2;
+    border-collapse: collapse;
+    padding: 12px 13px 12px 10px;
+    
+}
+
+th{
+    color: darkgray;
+    font-weight: 14px;
+    text-align: left;
+    font-weight: normal;
+}
+
+td{
+    font-size: 13px;
+    text-align: left
+}
+
+/* Goleadores*/
+#Goleadores{
+    width: 50%
+}
+
+#tbGoleador td{
+    padding: 20px 10px 10px 10px
+}
+
+.nomeJog{
+    text-align: left;
+    width: 90%
+}
+
+#tbGoleador {
+    width: 50%;
+    background-color:#ffffff
+}
+
+#jogador{
+    text-align: left
+}
+
+/* Tabela Partidas */
+
+#divpartidas{
+    width: 50%;
+    padding-bottom: 50px;
+}
+
+#tbPartidas{
+    width: 100%;
+    background-color:#ffffff;
+}
+
+#tdPartidas .tdTabelaPartida{
+    padding: 10px 10px 10px 10px
+}
+
+
+.tdTabelaPartida{
+    text-align: left;
+}
+
+.tdTabelaPartida .horario{
+    text-align: center;
+    font-size: 10px
+}
+
+ .tdClub{
+    text-align: left;
+    width: 80%
+}
+
+.tdTabelaPartida{
+    font-size: 11px
+}
+
+.horario{
+    font-size: 10px
+}
+
+.thTabelaPartida{
+    font-size: 10px
+}
